@@ -1,0 +1,29 @@
+#root {
+  max-width: 1280px;
+  margin: 0 auto;
+  padding: 2rem;
+  text-align: center;
+  color: orange;
+}
+input{
+  height: 25px;
+  border-radius: 5px;
+}
+
+.btn-AddTask{
+  margin:1rem;
+}
+.listItem{
+  
+  text-align: center;
+  font-size: 20px;
+  margin: 1rem;
+  padding:10px;
+  color: aquamarine;
+}
+
+
+#Del{
+  margin: 5px;
+  
+}
